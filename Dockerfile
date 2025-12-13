@@ -1,4 +1,4 @@
-FROM alpine:3.21.3 AS chatbox
+FROM alpine:3.23.0 AS chatbox
 
 # add chatbox user and install packages
 RUN \
